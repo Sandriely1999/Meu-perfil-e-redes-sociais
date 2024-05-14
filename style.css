@@ -1,0 +1,32 @@
+body {
+    background-color: #fecaca;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main {
+    background-color: #ecfccb;
+    width: 384px;
+    height: 611px;
+    margin-top: 174px;
+    margin-bottom: 174px;
+    padding: 40px;
+    text-align: center; 
+    gap: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
+
+}
+img {
+    width: 88px;
+    height: 88px;
+}
+h1 {
+
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 18px ;
+    color: #db2777 ;
+}
