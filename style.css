@@ -20,6 +20,7 @@ main {
 img {
     width: 88px;
     height: 88px;
+    border-radius: 50%;
 }
 h1 {
 
@@ -29,4 +30,41 @@ h1 {
 h2 {
     font-size: 18px ;
     color: #db2777 ;
+}
+
+p {
+    padding: 20px;
+    
+}
+
+div{
+    border-radius: 45%;
+    background-color: #d1d5db;
+    padding: 12px;
+    margin-bottom: 18px;
+    text-decoration: none;
+}
+
+
+/*
+.github{
+    background-color: #d1d5db;
+    padding: 12px;
+    margin-bottom: 16px;
+}
+
+.linkedin{
+    background-color: #d1d5db;
+    padding: 12px;
+    margin-bottom: 16px;
+}
+.face{
+    background-color: #d1d5db;
+    padding: 12px;
+    margin-bottom: 16px;
+}
+.insta{
+    background-color: #d1d5db;
+    padding: 12px;
+    margin-bottom: 16px;
 }
