@@ -6,7 +6,7 @@ body {
 }
 main {
     background-color: #ecfccb;
-    width: 384px;
+    width: 300px;
     height: 611px;
     margin-top: 174px;
     margin-bottom: 174px;
@@ -14,7 +14,7 @@ main {
     text-align: center; 
     gap: 24px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    border-radius: 15%;
+    border-radius: 15px;
   
 
 }
@@ -39,8 +39,8 @@ p {
 }
 
 div{
-    border-style:ridge;
-    border-radius: 15%;
+    border-style:outset;
+    border-radius: 15px;
     background-color: #d1d5db;
     padding: 12px;
     margin-bottom: 18px;
@@ -50,28 +50,10 @@ div{
 a {
     text-decoration:none;
     color: black;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-
+    
 }
-/*
-.github{
-    background-color: #d1d5db;
-    padding: 12px;
-    margin-bottom: 16px;
+div:hover {
+  background-color: darksalmon; 
 }
 
-.linkedin{
-    background-color: #d1d5db;
-    padding: 12px;
-    margin-bottom: 16px;
-}
-.face{
-    background-color: #d1d5db;
-    padding: 12px;
-    margin-bottom: 16px;
-}
-.insta{
-    background-color: #d1d5db;
-    padding: 12px;
-    margin-bottom: 16px;
-}
+
